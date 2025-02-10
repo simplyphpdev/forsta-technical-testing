@@ -1,7 +1,7 @@
-## Floor Cealing Finder
+## Floor Ceiling Finder
     Finds the nearwest value to the input in array if exist that its iqual, above or below the input number.
     Return -1 if a number could not be found.
-## ValidIps Finder
+## ValidIPs Finder
     Finds all the ip's values from string input, and return an array with the possible results for the string.
     Returns empty array [], if no valid ip was found or data was not valid.
 
